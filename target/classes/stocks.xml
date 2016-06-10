@@ -1,0 +1,32 @@
+<stocks>
+	<stock name="TEA" type="common">
+		<last-dividend>0</last-dividend>
+		<fix-dividend></fix-dividend>
+		<par-value>100</par-value>
+		<base-price>52.5</base-price>
+	</stock>
+	<stock name="POP" type="common">
+		<last-dividend>8</last-dividend>
+		<fix-dividend></fix-dividend>
+		<par-value>100</par-value>
+		<base-price>32.5</base-price>
+	</stock>
+	<stock name="ALE" type="common">
+		<last-dividend>23</last-dividend>
+		<fix-dividend></fix-dividend>
+		<par-value>60</par-value>
+		<base-price>54.5</base-price>
+	</stock>
+	<stock name="JOE" type="common">
+		<last-dividend>13</last-dividend>
+		<fix-dividend></fix-dividend>
+		<par-value>250</par-value>
+		<base-price>12.5</base-price>
+	</stock>
+	<stock name="GIN" type="preferred">
+		<last-dividend>8</last-dividend>
+		<fix-dividend>2</fix-dividend>
+		<par-value>100</par-value>
+		<base-price>55.5</base-price>
+	</stock>
+</stocks>
